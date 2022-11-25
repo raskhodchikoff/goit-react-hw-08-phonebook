@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[266],{1266:function(e,r,t){t.r(r),t.d(r,{default:function(){return a}});var o=t(9457),n=t(184);function a(){return(0,n.jsx)(o.x,{as:"div",mx:"auto",width:"760px",mt:6,py:3,bg:"mainBgr",border:"m",borderRadius:"m",borderColor:"greyBorder",boxShadow:"shadow",children:(0,n.jsx)(o.x,{fontWeight:700,fontSize:24,textAlign:"center",children:"Convenient service of your telephone contacts"})})}}}]);
+//# sourceMappingURL=266.dd3a0c1a.chunk.js.map
